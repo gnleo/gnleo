@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="./workspace-1.svg" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
+
 <!--
 **gnleo/gnleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
