@@ -1,6 +1,6 @@
-### Hi there 👋
+### olá mundo!
 
-<img src="./workspace-1.svg" min-width="400px" max-width="350px" width="350px" align="left" alt="workspace">
+<!-- <img src="./workspace-1.svg" min-width="400px" max-width="350px" width="350px" align="left" alt="workspace">
 
 <p align="left">
 
@@ -10,7 +10,7 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=gnleo_" /></a>
 </p>
-
+ -->
 <!--
 **gnleo/gnleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
